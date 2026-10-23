@@ -29,6 +29,3 @@ Key Insights and Recommendations:
 How to Deploy and Run:
 1. Execute 1_schema.sql in MySQL Workbench to create the tables and add the mock records.
 2. Run 2_queries.sql to generate analytical result tables.
-
-1. Execute 1_schema.sql in MySQL Workbench to create the tables and add the mock records.
-2. Run 2_queries.sql to generate analytical result tables.
